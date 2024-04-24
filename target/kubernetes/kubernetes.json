@@ -4,9 +4,9 @@
   "metadata" : {
     "annotations" : {
       "app.quarkus.io/quarkus-version" : "3.9.4",
-      "app.quarkus.io/commit-id" : "fb19902a195949753b37fca53a6aa8cc9536269d",
+      "app.quarkus.io/commit-id" : "56e8f33f2e95e16e69929d1c7c3af5bd72e259e1",
       "app.quarkus.io/vcs-uri" : "https://github.com/erwinsot/Quarkus.git",
-      "app.quarkus.io/build-timestamp" : "2024-04-24 - 19:28:00 +0000"
+      "app.quarkus.io/build-timestamp" : "2024-04-24 - 19:41:29 +0000"
     },
     "labels" : {
       "app.kubernetes.io/name" : "code-with-quarkus-pasarela",
@@ -34,9 +34,9 @@
   "metadata" : {
     "annotations" : {
       "app.quarkus.io/quarkus-version" : "3.9.4",
-      "app.quarkus.io/commit-id" : "fb19902a195949753b37fca53a6aa8cc9536269d",
+      "app.quarkus.io/commit-id" : "56e8f33f2e95e16e69929d1c7c3af5bd72e259e1",
       "app.quarkus.io/vcs-uri" : "https://github.com/erwinsot/Quarkus.git",
-      "app.quarkus.io/build-timestamp" : "2024-04-24 - 19:28:00 +0000"
+      "app.quarkus.io/build-timestamp" : "2024-04-24 - 19:41:29 +0000"
     },
     "labels" : {
       "app.kubernetes.io/name" : "code-with-quarkus-pasarela",
@@ -57,9 +57,9 @@
       "metadata" : {
         "annotations" : {
           "app.quarkus.io/quarkus-version" : "3.9.4",
-          "app.quarkus.io/commit-id" : "fb19902a195949753b37fca53a6aa8cc9536269d",
+          "app.quarkus.io/commit-id" : "56e8f33f2e95e16e69929d1c7c3af5bd72e259e1",
           "app.quarkus.io/vcs-uri" : "https://github.com/erwinsot/Quarkus.git",
-          "app.quarkus.io/build-timestamp" : "2024-04-24 - 19:28:00 +0000"
+          "app.quarkus.io/build-timestamp" : "2024-04-24 - 19:41:29 +0000"
         },
         "labels" : {
           "app.kubernetes.io/managed-by" : "quarkus",
