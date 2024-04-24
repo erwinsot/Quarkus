@@ -1,0 +1,11 @@
+org\acme\camelConfigurations\CamelRoutes.class
+org\acme\repositories\DataPayCardRespository.class
+org\acme\dtos\DataPayCardMapper.class
+org\acme\camelConfigurations\DataPayJson.class
+org\acme\dtos\CardTransactionResponseDTO.class
+org\acme\camelConfigurations\CardProcessor.class
+org\acme\dtos\DataPayCardMapperImpl.class
+org\acme\service\DataPayCardService.class
+org\acme\models\DataPayCard.class
+org\acme\controllers\PayCardResource.class
+org\acme\dtos\DataPayCardDTO.class
